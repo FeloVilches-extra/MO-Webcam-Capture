@@ -1,1 +1,1 @@
-# MO-Eye-Tribe
+# Webcam capture plugin
